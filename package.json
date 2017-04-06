@@ -16,5 +16,13 @@
   },
   "dependencies": {
     "p5": "^0.5.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noxan/graphic-experiments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noxan/graphic-experiments/issues"
+  },
+  "homepage": "https://github.com/noxan/graphic-experiments#readme"
 }
